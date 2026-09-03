@@ -1,6 +1,6 @@
 # Big Bang Nucleosynthesis: Bridging Nuclear/Particle Physics and Cosmology
 
-**Last updated:** 2026-08-27
+**Last updated:** 2026-09-03
 
 ## 1. The Science
 
@@ -73,6 +73,10 @@ BBN is the premier example of particle/nuclear physics constraining cosmology:
 ## 5. Key References
 
 - Burns, Tait & Valli, "PRyMordial: the first three minutes", EPJC 84 (2024) 86 [arXiv:2307.07061]
+- Burns et al., "Inside the Black Box of BBN: Sensitivity Atlas", arXiv:2603.22414 (77-parameter atlas using PRyMordial + LBT He-4 data)
+- Dreyer & Martins, "Probing Unification Scenarios with BBN", arXiv:2604.04870 (PRyMordial + GUT varying couplings)
+- Schöneberg, "What could an emerging BBN discrepancy be hinting at?", arXiv:2607.20635 (~3.1σ D/H tension with PRIMAT; vEDE proposed)
+- "BBN & WIMP Freeze-Out as Probes of Yukawa Cosmology", arXiv:2608.09390 (BBN + DM relic abundance as complementary MG probes)
 - Gariazzo et al., "PArthENoPE revolutions", CPC 271 (2022) 108205
 - Pitrou et al., "PRIMAT", Physics Reports 754 (2018) 1-66
 - Hufnagel et al., "ACROPOLIS", JCAP 11 (2021) 032

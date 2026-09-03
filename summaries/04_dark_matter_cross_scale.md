@@ -1,6 +1,6 @@
 # Dark Matter Cross-Scale: From Particle Interactions to Cosmic Structure
 
-**Last updated:** 2026-08-27
+**Last updated:** 2026-09-03
 
 ## 1. The Science
 
@@ -23,6 +23,17 @@ The thermal relic cross section ⟨σv⟩ ~ 3×10⁻²⁶ cm³/s directly connec
 - Direct detection cross section σ_SI (spin-independent) or σ_SD (spin-dependent)
 - Indirect detection (annihilation in halos → γ-rays, positrons)
 - Collider production cross section
+
+**NEW (2026-09): LUX-ZEPLIN 248 keV Event**
+Multiple groups have responded to a high-energy nuclear recoil event in LZ:
+- Higgsino DM interpretation (arXiv:2609.01583, 2609.01590, 2609.01504) — TeV-scale MSSM neutralino
+- Inelastic DM interpretation (arXiv:2609.01475) — scalar portal with mass splitting
+- Fermionic DM absorption (arXiv:2609.01592)
+This is a prime example of cross-scale physics: the same particle model determines relic abundance, collider signatures, and direct detection signals.
+
+**NEW (2026-09): Sub-GeV Thermal-Relic Targets**
+- New targets identified via gauged U(1) extensions: L_i-L_j, B-L, B-3L_i (arXiv:2603.03444, Fermilab). Unsuppressed scattering cross sections for complex scalar and Dirac fermion DM accessible at current and future direct detection experiments.
+- Scalar portal light DM with non-standard pre-BBN cosmology (arXiv:2609.02501): correlates direct detection with GW signatures (LISA/DECIGO).
 
 **Quantitative pipeline:** Given a BSM model (e.g., MSSM, singlet-doublet, etc.):
 1. Compute relic density Ωh² using **micrOMEGAs** or **MadDM**
@@ -98,6 +109,8 @@ The thermal relic cross section ⟨σv⟩ ~ 3×10⁻²⁶ cm³/s directly connec
 
 - Jungman et al., "Supersymmetric dark matter", Phys. Rept. 267 (1996) 195
 - Feng, "Dark Matter Candidates from Particle Physics", ARAA 48 (2010) 495
+- Hochberg et al., "New Thermal-Relic Targets for sub-GeV DM Direct Detection", arXiv:2603.03444
+- Freese & Theodosopoulos, "Higgsino DM Interpretation of the LZ 248 keV Event", arXiv:2609.01583
 - Cirelli et al., "Tools for model-independent bounds in direct DM searches", JCAP 10 (2013) 019
 - Bélanger et al., "micrOMEGAs5.0", CPC 231 (2018) 173
 - Amruth et al., "ETHOS", ApJ (2018)

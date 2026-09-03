@@ -1,6 +1,6 @@
 # Neutrino Mass & Cosmology: The Last Unknown in the Standard Model
 
-**Last updated:** 2026-08-27
+**Last updated:** 2026-09-03
 
 ## 1. The Science
 
@@ -38,6 +38,11 @@ Neutrino oscillations prove neutrinos are massive, but oscillations only measure
 - Σmν and w₀, wₐ are strongly degenerate in CMB + BAO analyses
 - Breaking the degeneracy requires galaxy surveys (DESI, Euclid, LSST) + CMB lensing
 - Critical for next-generation surveys to correctly account for both
+- **NEW (2026-09):** Du et al. achieve 2.7σ positive neutrino mass measurement in CPL DE framework: Σm_ν = 0.098⁺⁰·⁰¹⁶₋₀.₀₃₇ eV (Sci. China Phys. Mech. Astron. 2026).
+- **NEW (2026-09):** Interacting DE (IDE) models after DESI DR2 (arXiv:2606.05005): IDE models with Q ∝ ρ_de yield Σm_ν < 0.054 eV, in tension with oscillation minimum. Model dependence is critical.
+- **NEW (2026-09):** CCBH model (matter → DE conversion via stellar collapse): positive Σm_ν < 0.149 eV (PRL, arXiv:2504.20338). Novel mechanism linking star formation history to neutrino mass inference.
+- **NEW (2026-09):** Mass-varying neutrinos from inverse symmetron (arXiv:2606.07391): bare m_ν = 2.1 eV appears as effective 0.06 eV during coupled phase. May address H₀ tension.
+- **NEW (2026-09):** Dark energy from neutrino interactions in Unimodular Gravity (arXiv:2606.28488): neutrino-scalar coupling generates dynamical DE at 2σ significance.
 
 ### 2.4 N_eff: Counting Relativistic Species
 - Standard Model: N_eff = 3.044 (accounting for QED corrections, non-instantaneous decoupling)
@@ -82,6 +87,9 @@ The `bbn-mcp-server` already handles N_eff. A CMB-focused MCP server could provi
 ## 5. Key References
 
 - Lesgourgues & Pastor, "Massive neutrinos and cosmology", Phys. Rept. 429 (2006) 307
+- Du et al., "Cosmological preference for positive neutrino mass at 2.7σ", Sci. China Phys. Mech. Astron. (2026)
+- Li et al., "Neutrino mass constraints in interacting DE models after DESI DR2", arXiv:2606.05005
+- Croker et al., "Positive Neutrino Masses with DESI DR2 via Matter Conversion to DE", PRL (2026), arXiv:2504.20338
 - Lattanzi & Gerbino, "Status of neutrino mass and mass hierarchy determination", Front. Phys. 5 (2018) 1
 - DESI Collaboration, "DESI 2024 VII: Neutrino Masses", arXiv:2404.xxxxx
 - Aker et al. (KATRIN), "Direct neutrino-mass measurement", Nature Physics 18 (2022) 160

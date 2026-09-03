@@ -1,6 +1,6 @@
 # Modified Gravity & Dark Energy: Bridging Fundamental Theory and Large-Scale Structure
 
-**Last updated:** 2026-08-27
+**Last updated:** 2026-09-03
 
 ## 1. The Science
 
@@ -36,6 +36,10 @@ DESI 2024 BAO data hints at w₀wₐCDM being preferred over ΛCDM at ~3.9σ (wi
 ### 2.3 BBN Constraints on Dark Energy
 - Early Dark Energy models are constrained by BBN: modified expansion rate at T ~ MeV shifts light element abundances (arXiv:2512.11163)
 - Fisher analysis shows D/H and Y_p are most sensitive to EDE at T ~ 0.01-1 MeV
+- **NEW (2026-09):** Growing body of work testing teleparallel gravity extensions (f(T,L_m), f(T,B), f(Q,L_m)) using BBN as early-universe anchor + DESI/SNe/CC as late-time probes (arXiv:2509.20309, 2603.11760, 2601.14729, 2604.23793). Creating unified early-to-late constraining pipelines.
+- **NEW (2026-09):** f(R,G,T) framework tested via BBN (arXiv:2607.17252) — extends to Gauss-Bonnet invariant.
+- **NEW (2026-09):** No-go result for Hubble-cutoff holographic DE in Einstein-Cartan torsion cosmology (arXiv:2607.16370).
+- **NEW (2026-09):** Horndeski phantom-divide crossing (arXiv:2605.26259) and sound of dynamical DE (arXiv:2606.00411) constrained with Planck PR4 + DESI DR2.
 
 ### 2.4 Dark Energy ↔ Dark Matter
 - Some unified models have DE and DM as aspects of a single field
@@ -110,6 +114,9 @@ CMB-MCP (CLASS) ←→ MG-MCP (hi_class) ←→ BBN-MCP (PRyMordial)
 ## 5. Key References
 
 - DESI Collaboration, "DESI 2024 VI: Constraints on Models of Dark Energy", arXiv:2404.03002
+- "BBN constraints on f(T,L_m) gravity", EPJC 2026, arXiv:2509.20309
+- "The sound of dynamical dark energy and modified gravity", arXiv:2606.00411
+- Ladeira et al., "Joint Constraints on Neutrinos and Dynamical DE in Minimally Modified Gravity", arXiv:2601.02077
 - Wang et al., "Extending MGCAMB tests of gravity to nonlinear scales", JCAP 11 (2024) 003
 - Bellini et al., "hi_class: Horndeski in CLASS", JCAP 02 (2020) 008
 - Hu & Sawicki, "Models of f(R) Cosmic Acceleration", PRD 76 (2007) 064004

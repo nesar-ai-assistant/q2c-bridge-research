@@ -1,6 +1,6 @@
 # Sterile Neutrinos: The Particle↔Cosmology Bridge
 
-**Last updated:** 2026-08-27
+**Last updated:** 2026-09-03
 
 ## 1. The Science
 
@@ -28,6 +28,10 @@ Sterile neutrinos are hypothetical neutral fermions that interact only through g
 - Cosmological search after DESI 2024 (arXiv:2501.10785): In w₀wₐCDM+Sterile, m_eff = 0.50⁺⁰·³³₋₀.₂₇ eV at ~2σ with CBS+DESY3 data. N_eff = 3.076⁺⁰·⁰¹¹₋₀.₀₁₇.
 - The dark energy model strongly affects sterile ν constraints — highlighting the degeneracy between DE dynamics and neutrino physics.
 - ΛCDM+Sterile alone is disfavored (ln B = -6.66 vs ΛCDM).
+- **NEW (2026-09):** Ladeira et al. (arXiv:2606.21518, PRD 114) show that cosmological data do NOT generically exclude sterile neutrinos — only the fully thermalized limit is strongly disfavored. Dodelson-Widrow and different-temperature realizations remain viable with DESI DR2 + Planck data.
+- **NEW (2026-09):** Kar & Singh (arXiv:2604.00062) develop analytic framework treating sterile ν as dynamical cosmological fluid with time-dependent EoS, going beyond constant ΔN_eff.
+- **NEW (2026-09):** Chambyal et al. (arXiv:2604.14983): In 3+1 framework, DESI+CMB bound constrains sin θ₁₄ to 0.10–0.13 for vanishing |M_ee|. Inverted hierarchy ruled out under DESI+CMB.
+- **NEW (2026-09):** GW standard sirens from 3G detectors (arXiv:2507.17315) can reach ~3σ preference for ΔN_eff > 0 in holographic DE model.
 
 **Tools needed:** CAMB/CLASS with sterile ν, Cobaya/MontePython for MCMC, DESI + Planck + DES likelihoods.
 
@@ -105,6 +109,8 @@ The ArgoLOOM paper (arXiv:2510.02426) explicitly uses sterile neutrinos as the B
 - Boyarsky et al., "Sterile neutrino Dark Matter", Prog. Part. Nucl. Phys. 104 (2019) 1 [arXiv:1807.07938]
 - Adhikari et al., "A White Paper on keV sterile neutrino DM", JCAP 01 (2017) 025
 - Gao, Zhang et al., "Cosmological search for sterile neutrinos after DESI 2024", arXiv:2501.10785
+- Ladeira et al., "Are Cosmological Data Excluding Sterile Neutrinos or Only the Fully Thermalized Limit?", PRD 114 (2026) [arXiv:2606.21518]
+- Kar & Singh, "Sterile Neutrinos as a Dynamical Cosmological Fluid", arXiv:2604.00062
 - Parashari et al., "Lyα forest bounds on sterile ν via self-interactions", arXiv:2602.17821
 - "Return of the Lepton Number: Shi-Fuller Mechanism", arXiv:2507.18752
 - Zhang et al., "eV sterile ν in N-body simulations", arXiv:2501.16908
