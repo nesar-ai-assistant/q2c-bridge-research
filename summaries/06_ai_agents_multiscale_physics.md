@@ -1,6 +1,6 @@
 # AI Agents for Multi-Scale Physics: ArgoLOOM, MCP Servers, and the Quarks2Cosmos Pipeline
 
-**Last updated:** 2026-08-27
+**Last updated:** 2026-09-10
 
 ## 1. The Vision
 
@@ -104,3 +104,9 @@ Based on scientific impact, tool maturity, and publication potential:
 - Tam, Grosset, Banesh, Ramachandra et al., "InferA: smart assistant for cosmological ensemble data", SC Workshops '25
 - Coburn, Wells, Ramachandra, "A Multi-Agent System for Automated Cosmological Data Analysis", in prep (2025)
 - Model Context Protocol specification: https://modelcontextprotocol.io
+- **NEW (2026-09-10):** Vu et al., "Harness Engineering: Anatomy, Architecture, and Evolution of Coding Agents", arXiv:2609.00006 — source-code analysis of 11 harnesses including **Hermes (Nous Research)**, defines harness engineering as a discipline
+- **NEW (2026-09-10):** "Building MCP-native hierarchical AI scientist ecosystems", Frontiers in AI (2026) — surveys dynamic MCP-native pipelines for science
+- **NEW (2026-09-10):** AgentBrew (arXiv:2609.05837): offline training framework for MCP tool-use agents, tested on GitHub/Notion/PostgreSQL
+- **NEW (2026-09-10):** Security audit of MCP configurations (arXiv:2609.07360): 16% carry defects, 9.8% unpinned MCP server versions
+- **NEW (2026-09-10):** MCP tool-calling reliability on edge devices (arXiv:2609.07370): benchmarks sub-2B SLMs for MCP on Raspberry Pi, Jetson Nano
+- **NEW (2026-09-10):** Stein, "How are AI agents used? Evidence from 177,000 MCP tools", arXiv:2603.23802 — action tools now 65% of MCP ecosystem (up from 27%)

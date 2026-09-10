@@ -1,6 +1,6 @@
 # Dark Matter Cross-Scale: From Particle Interactions to Cosmic Structure
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-10
 
 ## 1. The Science
 
@@ -29,7 +29,12 @@ Multiple groups have responded to a high-energy nuclear recoil event in LZ:
 - Higgsino DM interpretation (arXiv:2609.01583, 2609.01590, 2609.01504) — TeV-scale MSSM neutralino
 - Inelastic DM interpretation (arXiv:2609.01475) — scalar portal with mass splitting
 - Fermionic DM absorption (arXiv:2609.01592)
-This is a prime example of cross-scale physics: the same particle model determines relic abundance, collider signatures, and direct detection signals.
+- **NEW (2026-09-10):** Transition magnetic-dipole DM (arXiv:2609.10453) — endothermic recoil + delayed photon
+- **NEW (2026-09-10):** Exothermic DM (arXiv:2609.05204) — complementary to endothermic scenarios
+- **NEW (2026-09-10):** Seasonal modulation prediction (arXiv:2609.04181) — ~5 events in full LZ exposure, 3σ for δ > 374 keV. Testable by XLZD and PandaX.
+- **NEW (2026-09-10):** LZ→Colliders connection (arXiv:2609.08712) — Higgsino mass splitting from DD mapped to collider signatures
+- **NEW (2026-09-10):** Solar capture constraints (arXiv:2609.02775) — complements DD for Higgsino DM
+This is a prime example of cross-scale physics: the same particle model determines relic abundance, collider signatures, and direct detection signals. The event count is now 8+ interpretation papers in 10 days.
 
 **NEW (2026-09): Sub-GeV Thermal-Relic Targets**
 - New targets identified via gauged U(1) extensions: L_i-L_j, B-L, B-3L_i (arXiv:2603.03444, Fermilab). Unsuppressed scattering cross sections for complex scalar and Dirac fermion DM accessible at current and future direct detection experiments.

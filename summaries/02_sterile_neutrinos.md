@@ -1,6 +1,6 @@
 # Sterile Neutrinos: The Particle↔Cosmology Bridge
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-10
 
 ## 1. The Science
 
@@ -40,6 +40,8 @@ Sterile neutrinos are hypothetical neutral fermions that interact only through g
 **Key recent results:**
 - Lyα forest bounds via neutrino self-interactions (arXiv:2602.17821): Using modified CLASS with neural network emulator for mixing angle. Strongest observational constraints from eBOSS Lyα EFT + PRIYA likelihoods.
 - Shi-Fuller mechanism revival (arXiv:2507.18752): Large lepton asymmetries L ≳ 0.5 open viable parameter space for m_s ≳ 10 keV with sin²(2θ) ≲ 10⁻¹⁴. Compatible with BBN and X-ray (NuSTAR, INTEGRAL/SPI) constraints.
+- **NEW (2026-09-10):** Self-interacting sterile ν CDM via resonant production (arXiv:2609.04650): Entirely new production mechanism within a sterile sector (N₁–N₂ + singlet scalar ϕ). Resonant level-crossing converts thermal N₂ → N₁ DM. Bypasses all X-ray and active–sterile mixing constraints. Relic abundance scales as Y₁ ∝ g₁₂²g₂₂M_Pl/m₁.
+- **NEW (2026-09-10):** MeV-gap sterile ν DM prospects (arXiv:2604.18674): Fisher forecast for future MeV γ-ray instruments detecting radiative and three-body decays. Fills the mass gap between keV X-ray and GeV collider searches.
 
 **Tools needed:** Modified CLASS/CAMB for non-thermal distributions, N-body simulations with WDM transfer functions, X-ray spectrum fitting codes.
 
@@ -115,3 +117,7 @@ The ArgoLOOM paper (arXiv:2510.02426) explicitly uses sterile neutrinos as the B
 - "Return of the Lepton Number: Shi-Fuller Mechanism", arXiv:2507.18752
 - Zhang et al., "eV sterile ν in N-body simulations", arXiv:2501.16908
 - ArgoLOOM paper: Bakshi et al., arXiv:2510.02426
+- NOvA sterile ν search (dual-baseline, ν + anti-ν): arXiv:2609.08900 — no evidence, excludes IceCube-allowed regions
+- Recoupled dark radiation with sterile ν self-interactions reconciling CMB–DESI: arXiv:2605.18716
+- Neutrino mass variables in 3+2 framework: arXiv:2603.17689
+- Chun, Kadota, Yun, "Self-Interacting Sterile Neutrino CDM: Resonant Production", arXiv:2609.04650
