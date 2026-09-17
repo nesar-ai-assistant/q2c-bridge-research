@@ -1,6 +1,6 @@
 # Neutrino Mass & Cosmology: The Last Unknown in the Standard Model
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-17
 
 ## 1. The Science
 
@@ -9,8 +9,8 @@ Neutrino oscillations prove neutrinos are massive, but oscillations only measure
 ### What We Know
 - **Oscillation data**: Δm²₂₁ ≈ 7.5×10⁻⁵ eV², |Δm²₃₁| ≈ 2.5×10⁻³ eV²
 - **Minimum Σmν**: ~0.06 eV (normal hierarchy) or ~0.10 eV (inverted hierarchy)
-- **Cosmological upper bound**: Σmν < 0.12 eV (Planck 2018, 95% CL, ΛCDM)
-- **DESI 2024 + Planck + DESY5**: Hints of tighter bounds, potentially ruling out inverted hierarchy
+- **Cosmological upper bound**: Σmν < 0.064 eV (DESI DR2 + Planck CamSpec, 95% CL, ΛCDM). The inverted hierarchy is now decisively disfavored (Bayes factor K > 460).
+- **DESI DR2 + Planck**: Normal ordering evidence is likelihood-dominated, not prior-dependent. Effective Majorana mass pushed to m_ββ ~ 3.3 meV.
 - **KATRIN**: Direct kinematic limit m_νe < 0.45 eV (2024)
 
 ### The Massive Neutrino Effect on LSS
@@ -94,3 +94,6 @@ The `bbn-mcp-server` already handles N_eff. A CMB-focused MCP server could provi
 - DESI Collaboration, "DESI 2024 VII: Neutrino Masses", arXiv:2404.xxxxx
 - Aker et al. (KATRIN), "Direct neutrino-mass measurement", Nature Physics 18 (2022) 160
 - Brinckmann et al., "The promising future of a robust cosmological neutrino mass measurement", JCAP 01 (2019) 059
+- Jimenez et al., "From Evidence to Evident: Decisive Cosmological Evidence for the Normal Neutrino Mass Hierarchy", arXiv:2606.18987 (K > 460 for NH from DESI DR2 + Planck; m_ββ ~ 3.3 meV)
+- Erickcek et al., "Less isn't more: ν mass bounds robust to neutrino abundance changes", arXiv:2609.15970 (Bound shifts ≤ 0.004 eV under non-standard thermal histories)
+- Asgari et al., "Mass-Varying Neutrinos from an Inverse Symmetron", arXiv:2606.07391 (MaVaN relaxes bound to Σmν < 0.16 eV)

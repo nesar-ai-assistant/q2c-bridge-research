@@ -1,6 +1,6 @@
 # Modified Gravity & Dark Energy: Bridging Fundamental Theory and Large-Scale Structure
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-17
 
 ## 1. The Science
 
@@ -9,7 +9,7 @@ The accelerated expansion of the universe (discovered 1998) can be explained by 
 - **Dynamical dark energy** — a new field with time-varying equation of state w(a)
 - **Modified gravity** — alterations to GR on cosmological scales
 
-DESI 2024 BAO data hints at w₀wₐCDM being preferred over ΛCDM at ~3.9σ (with DESY5 + Planck + ACT), reinvigorating interest in both dynamical DE and modified gravity.
+DESI 2024 BAO data hints at w₀wₐCDM being preferred over ΛCDM at ~3.9σ (with DESY5 + Planck + ACT), reinvigorating interest in both dynamical DE and modified gravity. DESI DR2 (2026) strengthens this further, with multiple analyses confirming the hint while debate continues about whether a single BAO bin drives the signal.
 
 ### Key Frameworks
 
@@ -125,3 +125,7 @@ CMB-MCP (CLASS) ←→ MG-MCP (hi_class) ←→ BBN-MCP (PRyMordial)
 - PySCo: Music et al., A&A (2025), arXiv:2410.xxxxx
 - Giovanetti et al., "Insights for EDE with BBN", arXiv:2512.11163
 - Yang et al., "GokuEmu", arXiv:2501.06296
+- Verhoeve et al., "An efficient one-loop EFTofLSS framework for Vainshtein-screened Horndeski gravity", arXiv:2607.26945 (PyBird extended to MG; BOSS+DESI DR2 constraints on Horndeski α_i)
+- Ye et al., "ℋ-EFTCAMB: Cobaya-Integrated Extension of EFTCAMB for Covariant Horndeski Gravity", arXiv:2603.01662 (Arbitrary Horndeski Lagrangian support)
+- Miranda et al., "Cosmological constraints and standard sirens forecasts for non-dynamical DE in Horndeski gravity", arXiv:2608.04079 (Extended Cuscuton + ET/CE forecasts)
+- Gómez-Valent et al., "Safe Phantom Divide Crossing from Unscreened NMC to Gravity", arXiv:2609.10133 (α > 0 NMC regime crosses w = −1 while satisfying BBN + Cassini)
