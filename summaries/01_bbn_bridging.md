@@ -1,6 +1,6 @@
 # Big Bang Nucleosynthesis: Bridging Nuclear/Particle Physics and Cosmology
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-10-08
 
 ## 1. The Science
 
@@ -86,3 +86,5 @@ BBN is the premier example of particle/nuclear physics constraining cosmology:
 - Feng et al., "Constraints of BBN and Cosmological Observations on varying Higgs VEV", PRD (2026), arXiv:2609.18168 (1.58% Higgs VEV uplift reconciles EMPRESS He-4, D/H, and Li; 0.2% uplift partially solves Li problem)
 - Saravanan et al., "Big Bang For Your Helium Buck", arXiv:2609.13140 (LBT primordial He enables BBN-agnostic CMB inference; independent neutron lifetime test)
 - Erickcek et al., "Less isn't more: ν mass bounds robust to neutrino abundance changes", arXiv:2609.15970 (Post-BBN photon injection shifts Σmν by ≤0.004 eV)
+- **NEW (2026-10-08):** Poulin, Froustey, Pitrou & Smith, "What could an emerging BBN discrepancy be hinting at?", arXiv:2607.20635 — Emerging ~2σ D/H tension with SBBN at Planck ωb; rises to ~3σ in EDE. Proposes "very early dark energy" (vEDE) at T~0.03 MeV: ΔH/H = 0.087±0.037. Hints at new scalar field during BBN. **Key implication for MCP server**: implement vEDE parameterization as a BBN extension.
+- **NEW (2026-10-08):** BBN constraints under extended gravitational dynamics, arXiv:2607.17252 — Systematic BBN constraints on four MG models; merges with Planck + DESI.

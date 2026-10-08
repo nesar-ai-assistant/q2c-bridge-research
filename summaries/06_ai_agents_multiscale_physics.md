@@ -1,6 +1,6 @@
 # AI Agents for Multi-Scale Physics: ArgoLOOM, MCP Servers, and the Quarks2Cosmos Pipeline
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-10-08
 
 ## 1. The Vision
 
@@ -110,3 +110,9 @@ Based on scientific impact, tool maturity, and publication potential:
 - **NEW (2026-09-10):** Security audit of MCP configurations (arXiv:2609.07360): 16% carry defects, 9.8% unpinned MCP server versions
 - **NEW (2026-09-10):** MCP tool-calling reliability on edge devices (arXiv:2609.07370): benchmarks sub-2B SLMs for MCP on Raspberry Pi, Jetson Nano
 - **NEW (2026-09-10):** Stein, "How are AI agents used? Evidence from 177,000 MCP tools", arXiv:2603.23802 — action tools now 65% of MCP ecosystem (up from 27%)
+- **NEW (2026-10-08):** Hardware-safety-gated LLM control of trapped-ion experiments via MCP, arXiv:2606.27231 — First MCP-mediated AI control of physics hardware. ARTIQ MCP server + safety-filter proxy with authorization tokens. Agent builds full calibration stack autonomously. **Qualitative leap: MCP enters experimental physics hardware control.**
+- **NEW (2026-10-08):** VASPilot: Multi-agent DFT automation via CrewAI + MCP, arXiv:2508.07035 — 5 MCP servers for complete VASP workflow. Validated on band structures, convergence tests, lattice optimization. Modular MCP design extensible to other codes.
+- **NEW (2026-10-08):** LAP (Lab Agent Protocol), arXiv:2606.03755 — Fills agent-to-instrument gap between MCP and A2A. InstrumentCard, safety fences, physically-typed MeasurementResult. Transport-compatible with MCP/A2A.
+- **NEW (2026-10-08):** Paper2Agent (Nature, Sep 16, 2026) — Automatic MCP server generation from paper + code repo. Creates "virtual corresponding authors." Demonstrated on AlphaGenome, Scanpy, TISSUE. **Meta-tool for MCP ecosystem growth.**
+- **NEW (2026-10-08):** Catalyst-Agent with 5 MCP servers for heterogeneous catalyst screening, arXiv:2603.01311 — GPT-5.2 orchestrator, 23-34% success rate on ORR/NRR/CO₂RR.
+- **NEW (2026-10-08):** AgentBuild for Rietveld refinement via GSAS-II + MCP + A2A, arXiv:2606.12834 — Contract-based agent construction with rubric-driven meta-optimization.

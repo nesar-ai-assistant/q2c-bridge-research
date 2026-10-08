@@ -1,6 +1,6 @@
 # Dark Matter Cross-Scale: From Particle Interactions to Cosmic Structure
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-10-08
 
 ## 1. The Science
 
@@ -35,6 +35,16 @@ Multiple groups have responded to a high-energy nuclear recoil event in LZ:
 - **NEW (2026-09-10):** LZ→Colliders connection (arXiv:2609.08712) — Higgsino mass splitting from DD mapped to collider signatures
 - **NEW (2026-09-10):** Solar capture constraints (arXiv:2609.02775) — complements DD for Higgsino DM
 This is a prime example of cross-scale physics: the same particle model determines relic abundance, collider signatures, and direct detection signals. The event count is now 8+ interpretation papers in 10 days.
+
+**NEW (2026-10-08): LZ Theory Response Explosion**
+The theory response to LZ230616 has now exceeded 50 papers in ~5 weeks. Key new developments:
+- **Inelastic DM via higher-dimensional operator** (arXiv:2610.00645, Oct 1): Dimension-6 operator simultaneously determines relic abundance from freeze-out and inelastic DD signal. Self-consistent model with m_χ ~ few hundred GeV, Δm ~ 300 keV. Exemplary relic-density ↔ DD bridge.
+- **Dark photon DM** (arXiv:2609.02868): Unified explanation of both LZ event and Fermi-LAT Galactic γ-ray excess via Sommerfeld-enhanced annihilation + inelastic scattering.
+- **Asymmetric inelastic DM** (arXiv:2609.18564): Avoids tension between DD signal and annihilation constraints by depleting symmetric component.
+- **Solar capture constraints** (arXiv:2609.21823): Rules out large ranges of elastic DM masses that would explain the LZ event.
+- **Vector-like lepton interpretation** (arXiv:2609.08993): BSM lepton sector explaining high-recoil event.
+
+**Dark Dimension DM** (arXiv:2610.04909, Oct 4): Swampland-derived KK graviton dark matter from a single micron-scale extra dimension. Relic abundance fixed by T_i ~ 1 GeV. Evolving dark dimension fits DESI DR2 without phantom crossing — apparent w evolution arises from evolving DM mass.
 
 **NEW (2026-09): Sub-GeV Thermal-Relic Targets**
 - New targets identified via gauged U(1) extensions: L_i-L_j, B-L, B-3L_i (arXiv:2603.03444, Fermilab). Unsuppressed scattering cross sections for complex scalar and Dirac fermion DM accessible at current and future direct detection experiments.
