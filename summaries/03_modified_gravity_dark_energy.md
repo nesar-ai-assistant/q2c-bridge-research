@@ -1,6 +1,6 @@
 # Modified Gravity & Dark Energy: Bridging Fundamental Theory and Large-Scale Structure
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-10-24
 
 ## 1. The Science
 
@@ -44,6 +44,19 @@ DESI 2024 BAO data hints at w₀wₐCDM being preferred over ΛCDM at ~3.9σ (wi
 ### 2.4 Dark Energy ↔ Dark Matter
 - Some unified models have DE and DM as aspects of a single field
 - Interacting DE-DM models modify both expansion history and structure growth
+
+### 2.5 The "Single Scalar / Single Geometry Unifies Everything" Trend (NEW 2026-10-24)
+Multiple independent groups are now proposing single mechanisms that simultaneously resolve two or more of the current DESI-era anomalies (phantom-divide crossing, negative/sub-minimum Σmν, H0 tension):
+
+| Model | Mechanism | Anomalies addressed | Ref |
+|---|---|---|---|
+| ACG (Asymptotic Cubic Galileon) | Horndeski subclass, minimally coupled | Phantom crossing | arXiv:2606.20794 |
+| Dark dimension | Swampland → micron-scale extra dim, KK graviton DM | Phantom crossing (via evolving DM mass), ν mass, sterile DM | arXiv:2610.04909 |
+| MaVaN pNGB | Exponential coupling of pNGB to ν mass | Phantom crossing AND sub-minimum Σmν simultaneously | arXiv:2610.10195 |
+| Coupled thawing quintessence | Cosine / double-exponential hilltop potentials | Phantom crossing (apparent, no real phantom field) | arXiv:2610.23497 |
+| f(R) partial DM geometrization | Exact ΛCDM-matched background, fraction ξ of DM is geometric | DM↔geometry degeneracy, growth constraints | arXiv:2610.30201 |
+
+**Implication for MCP server**: a dedicated `compare_unification_models(anomaly_set)` tool that scores each of these frameworks against the same DESI DR2 + CMB + SN dataset would be a high-value, differentiated addition — no single existing tool currently performs this comparison.
 
 ## 3. Existing Computational Tools
 
@@ -129,3 +142,8 @@ CMB-MCP (CLASS) ←→ MG-MCP (hi_class) ←→ BBN-MCP (PRyMordial)
 - Ye et al., "ℋ-EFTCAMB: Cobaya-Integrated Extension of EFTCAMB for Covariant Horndeski Gravity", arXiv:2603.01662 (Arbitrary Horndeski Lagrangian support)
 - Miranda et al., "Cosmological constraints and standard sirens forecasts for non-dynamical DE in Horndeski gravity", arXiv:2608.04079 (Extended Cuscuton + ET/CE forecasts)
 - Gómez-Valent et al., "Safe Phantom Divide Crossing from Unscreened NMC to Gravity", arXiv:2609.10133 (α > 0 NMC regime crosses w = −1 while satisfying BBN + Cassini)
+- Campanella Galanti & Piattella, "Partial geometrization of dark matter in metric f(R) gravity: Exact reconstruction and growth constraints", arXiv:2610.30201 (2026-10-24)
+- "Effective Neutrino Mass and Apparent Phantom Crossing" (MaVaN pNGB), arXiv:2610.10195 (2026-10-24)
+- "Can coupled thawing quintessence reproduce DESI DR2? A test with two potentials", arXiv:2610.23497 (2026-10-24)
+- "Are Dynamical Dark-Energy Cosmologies Old Enough?" (stellar-age consistency test), arXiv:2610.27209 (2026-10-24)
+- Song, Icaza-Lizaola, Oh, Zheng, "Model-independent parameters from DESI DR1 LRG2 with an explicitly varying power-spectrum shape" (GP emulator for shape-marginalized AP+fσ8), arXiv:2610.21235 (2026-10-24)

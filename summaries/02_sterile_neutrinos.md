@@ -1,6 +1,6 @@
 # Sterile Neutrinos: The Particle↔Cosmology Bridge
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-10-24
 
 ## 1. The Science
 
@@ -32,6 +32,8 @@ Sterile neutrinos are hypothetical neutral fermions that interact only through g
 - **NEW (2026-09):** Kar & Singh (arXiv:2604.00062) develop analytic framework treating sterile ν as dynamical cosmological fluid with time-dependent EoS, going beyond constant ΔN_eff.
 - **NEW (2026-09):** Chambyal et al. (arXiv:2604.14983): In 3+1 framework, DESI+CMB bound constrains sin θ₁₄ to 0.10–0.13 for vanishing |M_ee|. Inverted hierarchy ruled out under DESI+CMB.
 - **NEW (2026-09):** GW standard sirens from 3G detectors (arXiv:2507.17315) can reach ~3σ preference for ΔN_eff > 0 in holographic DE model.
+- **NEW (2026-10-24):** Partially thermalized eV-scale sterile ν in curved + dynamical DE cosmologies (arXiv:2610.10585) — Letting ΔN_eff and m_s vary independently (rather than full thermalization) pushes the viable effective sterile mass from ~0.11 eV (flat ΛCDM) to ~0.35 eV (non-flat w0waCDM), with ΔN_eff ≃ 0.24–0.36, well below the ΔN_eff≈1 fully-thermalized limit. Also finds a 2.8σ preference for open curvature (Ω_k≈0.0045) in these extended models. **Directly extends the DTS/DW taxonomy of 2606.21518 to curved + dynamical-DE backgrounds** — new axis to add to our scan tool's parameter grid.
+- **NEW (2026-10-24):** Post-JUNO beta-decay/0νββ complementarity (arXiv:2610.15060) — Updated oscillation parameters (incl. first JUNO results) tighten the beta-decay bound on m_β, which in turn restricts the destructive-interference "escape hatch" that lets eV-scale sterile Majorana neutrinos evade 0νββ limits. Useful laboratory input for our exclusion-plane tool.
 
 **Tools needed:** CAMB/CLASS with sterile ν, Cobaya/MontePython for MCMC, DESI + Planck + DES likelihoods.
 
@@ -121,3 +123,4 @@ The ArgoLOOM paper (arXiv:2510.02426) explicitly uses sterile neutrinos as the B
 - Recoupled dark radiation with sterile ν self-interactions reconciling CMB–DESI: arXiv:2605.18716
 - Neutrino mass variables in 3+2 framework: arXiv:2603.17689
 - Chun, Kadota, Yun, "Self-Interacting Sterile Neutrino CDM: Resonant Production", arXiv:2609.04650
+- Kashyap & Pandey, "Partially Thermalized eV-Scale Sterile Neutrinos in Dynamical Dark Energy and Non-Flat Cosmologies", arXiv:2610.10585 (2026-10-24)

@@ -1,6 +1,6 @@
 # Dark Matter Cross-Scale: From Particle Interactions to Cosmic Structure
 
-**Last updated:** 2026-10-08
+**Last updated:** 2026-10-24
 
 ## 1. The Science
 
@@ -45,6 +45,13 @@ The theory response to LZ230616 has now exceeded 50 papers in ~5 weeks. Key new 
 - **Vector-like lepton interpretation** (arXiv:2609.08993): BSM lepton sector explaining high-recoil event.
 
 **Dark Dimension DM** (arXiv:2610.04909, Oct 4): Swampland-derived KK graviton dark matter from a single micron-scale extra dimension. Relic abundance fixed by T_i ~ 1 GeV. Evolving dark dimension fits DESI DR2 without phantom crossing — apparent w evolution arises from evolving DM mass.
+
+**NEW (2026-10-24): LZ Theory Response — Multi-Messenger Expansion**
+Three more mechanisms added to the LZ 248 keV interpretation cluster this cycle:
+- **Coscattering / conversion-driven freeze-out** (arXiv:2610.08648): Singlet-doublet fermion DM with ~100 keV mass splitting + light (250 MeV) dark photon. Conversion into the doublet sector sets the relic abundance (coscattering) while the same interaction is probed by the high-energy LZ recoil. Combining relic + recoil requirements selects m_χ ~ 750 GeV – 1.6 TeV. Clean numerically-specified benchmark for the relic-abundance↔DD calculator.
+- **Gauged U(1)_X hidden sector with correlated GW signal** (arXiv:2610.18234): Singlet-scalar VEV simultaneously sets gauge-boson mass, pseudo-Dirac splitting for the inelastic LZ interpretation, AND the frequency/amplitude of a first-order-phase-transition gravitational-wave signal (detectable at μARES/THEIA). Third independent mechanism (after 2610.00645, 2610.08648) linking relic-abundance↔DD to a GW multi-messenger probe.
+- **Halo-velocity-tail sensitivity for heavy-element complementarity** (arXiv:2610.21041): Shows the predicted signal in complementary heavy-element direct-detection experiments is highly sensitive to the assumed high-velocity tail of the DM distribution (LMC-perturbation-motivated halo models). **Actionable**: our lz-dark-sector-bridge MCP server should expose a configurable halo velocity-distribution parameter — currently missing.
+- **Freeze-in via low reheating** (arXiv:2610.29543): Non-adiabatic low-reheating era boosts the coupling needed for correct freeze-in relic density, pushing some freeze-in benchmarks into direct-detection reach — extends our relic-density↔DD tooling beyond the WIMP paradigm.
 
 **NEW (2026-09): Sub-GeV Thermal-Relic Targets**
 - New targets identified via gauged U(1) extensions: L_i-L_j, B-L, B-3L_i (arXiv:2603.03444, Fermilab). Unsuppressed scattering cross sections for complex scalar and Dirac fermion DM accessible at current and future direct detection experiments.
@@ -130,3 +137,7 @@ The theory response to LZ230616 has now exceeded 50 papers in ~5 weeks. Key new 
 - Bélanger et al., "micrOMEGAs5.0", CPC 231 (2018) 173
 - Amruth et al., "ETHOS", ApJ (2018)
 - Tulin & Yu, "Dark Matter Self-interactions", Phys. Rept. 730 (2018) 1
+- "Testing Dark Matter Coscattering with the High-Energy LZ Recoil", arXiv:2610.08648 (2026-10-24)
+- "Signature of GW from the Hidden Sector in light of the Recent LZ Event", arXiv:2610.18234 (2026-10-24)
+- "Testing the inelastic dark matter interpretation of the LZ event with heavy-element experiments" (halo velocity-tail sensitivity), arXiv:2610.21041 (2026-10-24)
+- "Detectable Dark Matter Freeze-in via Low Reheating", arXiv:2610.29543 (2026-10-24)

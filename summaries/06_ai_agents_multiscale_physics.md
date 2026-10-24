@@ -1,6 +1,6 @@
 # AI Agents for Multi-Scale Physics: ArgoLOOM, MCP Servers, and the Quarks2Cosmos Pipeline
 
-**Last updated:** 2026-10-08
+**Last updated:** 2026-10-24
 
 ## 1. The Vision
 
@@ -116,3 +116,6 @@ Based on scientific impact, tool maturity, and publication potential:
 - **NEW (2026-10-08):** Paper2Agent (Nature, Sep 16, 2026) — Automatic MCP server generation from paper + code repo. Creates "virtual corresponding authors." Demonstrated on AlphaGenome, Scanpy, TISSUE. **Meta-tool for MCP ecosystem growth.**
 - **NEW (2026-10-08):** Catalyst-Agent with 5 MCP servers for heterogeneous catalyst screening, arXiv:2603.01311 — GPT-5.2 orchestrator, 23-34% success rate on ORR/NRR/CO₂RR.
 - **NEW (2026-10-08):** AgentBuild for Rietveld refinement via GSAS-II + MCP + A2A, arXiv:2606.12834 — Contract-based agent construction with rubric-driven meta-optimization.
+- **NEW (2026-10-24):** PhysClosureBench, arXiv:2610.21767 — 50 expert-verified, goal-specified physics research tasks (strong-field, attosecond physics) with a 20-criterion "Atomic Score" and a 5-level "Research Closure" (RC0–RC4) rubric measuring how fully an agent-run investigation resolves its stated research question. **Directly applicable as a self-audit framework** for our own MCP-server-driven cosmology/DM workflows, which currently lack a formal closure metric.
+- **NEW (2026-10-24):** Explore/Confirm measurement misallocation, arXiv:2610.25111 — Wellocate benchmark shows LLM agents systematically misallocate exploration vs. confirmation budget under noisy readings. Relevant any time our MCP servers hand off iterative parameter-scan decisions (sterile-ν grid scans, f(R) emulator sampling) to an LLM loop without an explicit acquisition-function layer.
+- **NEW (2026-10-24):** AI Agents Can Already Autonomously Perform Experimental HEP, arXiv:2603.20179 (now v3, gaining traction) — Claude-Code-based "Just Furnish Context" (JFC) framework autonomously executes full HEP analysis pipelines (event selection → background estimation → stats → paper drafting) on ALEPH/DELPHI/CMS open data, producing a genuinely novel Lund-plane measurement with no prior human precedent. Strong architectural reference for structuring our own orchestrator's literature-retrieval + multi-agent-review pipeline.

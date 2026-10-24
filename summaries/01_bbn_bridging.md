@@ -1,6 +1,6 @@
 # Big Bang Nucleosynthesis: Bridging Nuclear/Particle Physics and Cosmology
 
-**Last updated:** 2026-10-08
+**Last updated:** 2026-10-24
 
 ## 1. The Science
 
@@ -88,3 +88,6 @@ BBN is the premier example of particle/nuclear physics constraining cosmology:
 - Erickcek et al., "Less isn't more: ν mass bounds robust to neutrino abundance changes", arXiv:2609.15970 (Post-BBN photon injection shifts Σmν by ≤0.004 eV)
 - **NEW (2026-10-08):** Poulin, Froustey, Pitrou & Smith, "What could an emerging BBN discrepancy be hinting at?", arXiv:2607.20635 — Emerging ~2σ D/H tension with SBBN at Planck ωb; rises to ~3σ in EDE. Proposes "very early dark energy" (vEDE) at T~0.03 MeV: ΔH/H = 0.087±0.037. Hints at new scalar field during BBN. **Key implication for MCP server**: implement vEDE parameterization as a BBN extension.
 - **NEW (2026-10-08):** BBN constraints under extended gravitational dynamics, arXiv:2607.17252 — Systematic BBN constraints on four MG models; merges with Planck + DESI.
+- **NEW (2026-10-24):** EMPRESS Y_P deficit, arXiv:2610.29069 — Primordial helium Y_P = 0.2402±0.0040 sits >1σ *below* SBBN, mirroring the D/H excess (2607.20635) in the opposite direction. Combined with D/H + Planck ωb this gives a ~2σ hint of non-zero electron-neutrino degeneracy. Authors show non-unitary thermal neutrino mixing can explain the He-4 deficit while leaving D/H untouched. **The BBN anomaly landscape is now bidirectional** — any future MCP extension should attempt a joint D/H + Y_P fit rather than treating the two abundances independently.
+- **NEW (2026-10-24):** Self-interacting secluded DM thermalization, arXiv:2610.21817 — Inflaton-decay-produced scalar DM that thermalizes internally via self-scattering predicts a distinct dark-radiation (ΔN_eff) signature at BBN/CMB; another concrete "extra light species at BBN" scenario for the N_eff scan tool.
+- **NEW (2026-10-24):** Stiff axion field and cosmic birefringence, arXiv:2610.27082 — Yet another candidate "extra scalar active pre-BBN" alongside vEDE; worth tracking as the pre-BBN-scalar-field literature grows.

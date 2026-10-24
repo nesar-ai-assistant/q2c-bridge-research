@@ -1,6 +1,6 @@
 # Neutrino Mass & Cosmology: The Last Unknown in the Standard Model
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-10-24
 
 ## 1. The Science
 
@@ -43,6 +43,9 @@ Neutrino oscillations prove neutrinos are massive, but oscillations only measure
 - **NEW (2026-09):** CCBH model (matter → DE conversion via stellar collapse): positive Σm_ν < 0.149 eV (PRL, arXiv:2504.20338). Novel mechanism linking star formation history to neutrino mass inference.
 - **NEW (2026-09):** Mass-varying neutrinos from inverse symmetron (arXiv:2606.07391): bare m_ν = 2.1 eV appears as effective 0.06 eV during coupled phase. May address H₀ tension.
 - **NEW (2026-09):** Dark energy from neutrino interactions in Unimodular Gravity (arXiv:2606.28488): neutrino-scalar coupling generates dynamical DE at 2σ significance.
+- **NEW (2026-10-24):** Geometry/growth split diagnostic (arXiv:2610.20977) — Introduces a genuinely new, physically motivated decomposition: Σmν^geo (sets H(z) for distances) vs. Σmν^growth (sets H(z) for perturbation evolution). Current data give both negative: Σmν^geo = -0.07±0.10 eV, Σmν^growth = -0.13+0.10/-0.12 eV, consistent with each other at 0.4σ (passing the ΛCDM null test). Forecasts with Advanced SO + DESI DR3 show the geometry channel alone could reject 0.058 eV at 3σ if the current central value persists. **High-priority tool to implement**: requires only splitting the Boltzmann-code H(z) calls between distance and perturbation sectors — directly actionable for our neutrino-mass module.
+- **NEW (2026-10-24):** MaVaN pNGB phantom-crossing unification (arXiv:2610.10195) — A single canonical pseudo-Nambu-Goldstone scalar field drives late acceleration AND controls ν mass via exponential coupling; explains both the sub-minimum Σmν inference and the apparent phantom-divide crossing at z≈0.90 (w_φ stays ≥-1, no NEC violation). Unifies two of the biggest current DESI-era anomalies in one mechanism.
+- **NEW (2026-10-24):** Sound-horizon-agnostic H0/Σmν forecast (arXiv:2610.31660) — Treats r_d as free to decouple H0 and Σmν inference from early-universe calibration; forward-looking target for LSST-Y1/DESI-DR3-era forecasting work in our neutrino module.
 
 ### 2.4 N_eff: Counting Relativistic Species
 - Standard Model: N_eff = 3.044 (accounting for QED corrections, non-instantaneous decoupling)
@@ -97,3 +100,5 @@ The `bbn-mcp-server` already handles N_eff. A CMB-focused MCP server could provi
 - Jimenez et al., "From Evidence to Evident: Decisive Cosmological Evidence for the Normal Neutrino Mass Hierarchy", arXiv:2606.18987 (K > 460 for NH from DESI DR2 + Planck; m_ββ ~ 3.3 meV)
 - Erickcek et al., "Less isn't more: ν mass bounds robust to neutrino abundance changes", arXiv:2609.15970 (Bound shifts ≤ 0.004 eV under non-standard thermal histories)
 - Asgari et al., "Mass-Varying Neutrinos from an Inverse Symmetron", arXiv:2606.07391 (MaVaN relaxes bound to Σmν < 0.16 eV)
+- "Disentangling geometry & growth in cosmic neutrino mass constraints: a more physical split and diagnostic", arXiv:2610.20977 (2026-10-24)
+- "Effective Neutrino Mass and Apparent Phantom Crossing" (MaVaN pNGB unifying ν mass + phantom crossing), arXiv:2610.10195 (2026-10-24)
