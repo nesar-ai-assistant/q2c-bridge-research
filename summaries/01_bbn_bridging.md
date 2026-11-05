@@ -1,6 +1,6 @@
 # Big Bang Nucleosynthesis: Bridging Nuclear/Particle Physics and Cosmology
 
-**Last updated:** 2026-10-24
+**Last updated:** 2026-11-05
 
 ## 1. The Science
 
@@ -91,3 +91,5 @@ BBN is the premier example of particle/nuclear physics constraining cosmology:
 - **NEW (2026-10-24):** EMPRESS Y_P deficit, arXiv:2610.29069 — Primordial helium Y_P = 0.2402±0.0040 sits >1σ *below* SBBN, mirroring the D/H excess (2607.20635) in the opposite direction. Combined with D/H + Planck ωb this gives a ~2σ hint of non-zero electron-neutrino degeneracy. Authors show non-unitary thermal neutrino mixing can explain the He-4 deficit while leaving D/H untouched. **The BBN anomaly landscape is now bidirectional** — any future MCP extension should attempt a joint D/H + Y_P fit rather than treating the two abundances independently.
 - **NEW (2026-10-24):** Self-interacting secluded DM thermalization, arXiv:2610.21817 — Inflaton-decay-produced scalar DM that thermalizes internally via self-scattering predicts a distinct dark-radiation (ΔN_eff) signature at BBN/CMB; another concrete "extra light species at BBN" scenario for the N_eff scan tool.
 - **NEW (2026-10-24):** Stiff axion field and cosmic birefringence, arXiv:2610.27082 — Yet another candidate "extra scalar active pre-BBN" alongside vEDE; worth tracking as the pre-BBN-scalar-field literature grows.
+- **NEW (2026-11-05):** Thirty years of primordial deuterium abundances: provenance-aware reanalysis, arXiv:2611.02289 — 957-entry, 247-publication database of D/H values (1994–2026) finds only ~16 effectively-independent absorbers (inverse-Herfindahl measure) behind the modern consensus D/H≈2.5×10⁻⁵; 80% of published entries are reused/compiled rather than new determinations. Central value is robust, but claimed compilation-level precision is inflated. **Same root issue as the LBT-vs-EMPRESS He-4 tension (2026-11-01 update)**: BBN "measurement precision" claims need a provenance/independence check before being fed into tension analyses.
+- **NEW (2026-11-05):** The Cosmology of Hawking Axions, arXiv:2611.05747 — PBH evaporation → early matter domination → axion dark radiation; another concrete "extra relativistic species near BBN" production channel, alongside vEDE, stiff-axion birefringence, and self-interacting secluded DM already tracked.

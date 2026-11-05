@@ -1,6 +1,6 @@
 # Sterile Neutrinos: The Particle↔Cosmology Bridge
 
-**Last updated:** 2026-10-24
+**Last updated:** 2026-11-05
 
 ## 1. The Science
 
@@ -124,3 +124,5 @@ The ArgoLOOM paper (arXiv:2510.02426) explicitly uses sterile neutrinos as the B
 - Neutrino mass variables in 3+2 framework: arXiv:2603.17689
 - Chun, Kadota, Yun, "Self-Interacting Sterile Neutrino CDM: Resonant Production", arXiv:2609.04650
 - Kashyap & Pandey, "Partially Thermalized eV-Scale Sterile Neutrinos in Dynamical Dark Energy and Non-Flat Cosmologies", arXiv:2610.10585 (2026-10-24)
+- Bustamante & Liu, "Constraining tau-sterile neutrino mixing with high-energy astrophysical neutrinos", arXiv:2611.05170 (2026-11-05) — IceCube flavor-composition probe of |U_τ4|², the least-constrained mixing angle; current bound 0.88 (90% CL), projected 0.12–0.14 by 2050 with IceCube-Gen2/HUNT. Complementary cosmological-distance-oscillation channel vs. our server's terrestrial/BBN focus.
+- Pierre Auger Collaboration, "A search for sterile neutrinos at ultrahigh energies at the Pierre Auger Observatory", arXiv:2611.06284 (2026-11-05) — MeV–100 MeV Earth-skimming τ-lepton search; also derives superheavy-DM-decay-sourced sterile-ν constraints. Different mass regime than our keV–MeV server default grid.

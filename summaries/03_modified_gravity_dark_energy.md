@@ -1,6 +1,6 @@
 # Modified Gravity & Dark Energy: Bridging Fundamental Theory and Large-Scale Structure
 
-**Last updated:** 2026-10-24
+**Last updated:** 2026-11-05
 
 ## 1. The Science
 
@@ -81,6 +81,8 @@ Multiple independent groups are now proposing single mechanisms that simultaneou
 | **PySCo** | Python | f(R), MOND, time-dep G | Fast PM, ~1 CPU-hr for 512³, ideal for emulators |
 | **MG-PICOLA** | COLA | f(R), DGP | Approximate, fast |
 | **RayMOND** | RAMSES | MOND | AMR |
+| **CONCEPT + mochi_CLASS patch** (NEW, arXiv:2611.06330, 2026-11-05) | CONCEPT/CLASS | w₀wₐCDM, Hu-Sawicki f(R), cubic Galileon (+massive ν) | First Horndeski implementation in an N-body code; treats MG as effective DE fluid with linear perturbations evolved via synchronous-gauge metric perturbations. Up to 40% GR deviation for f(R), <25% for cubic Galileon. |
+| **Mercury (Hg)** (NEW, arXiv:2611.03637, 2026-11-05) | Particle-mesh, relativistic | Full Horndeski α-basis (α_K, α_B, α_M, α_T) | Interfaces with hi_class for both phenomenological α-function and covariant Horndeski theories (nKGB, Cubic Galileon, Brans-Dicke). Validated against hi_class linear regime; intermediate step toward fully nonlinear Horndeski sims. |
 
 ### Emulators
 
@@ -147,3 +149,5 @@ CMB-MCP (CLASS) ←→ MG-MCP (hi_class) ←→ BBN-MCP (PRyMordial)
 - "Can coupled thawing quintessence reproduce DESI DR2? A test with two potentials", arXiv:2610.23497 (2026-10-24)
 - "Are Dynamical Dark-Energy Cosmologies Old Enough?" (stellar-age consistency test), arXiv:2610.27209 (2026-10-24)
 - Song, Icaza-Lizaola, Oh, Zheng, "Model-independent parameters from DESI DR1 LRG2 with an explicitly varying power-spectrum shape" (GP emulator for shape-marginalized AP+fσ8), arXiv:2610.21235 (2026-10-24)
+- "Horndeski Gravity as an Effective Dark Energy Fluid in Cosmological N-body Simulations" (CONCEPT + mochi_CLASS), arXiv:2611.06330 (2026-11-05)
+- "Mercury (Hg): a relativistic N-body simulation for Horndeski gravity", arXiv:2611.03637 (2026-11-05)
