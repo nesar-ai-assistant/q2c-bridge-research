@@ -1,6 +1,6 @@
 # Neutrino Mass & Cosmology: The Last Unknown in the Standard Model
 
-**Last updated:** 2026-10-24
+**Last updated:** 2026-11-12
 
 ## 1. The Science
 
@@ -102,3 +102,4 @@ The `bbn-mcp-server` already handles N_eff. A CMB-focused MCP server could provi
 - Asgari et al., "Mass-Varying Neutrinos from an Inverse Symmetron", arXiv:2606.07391 (MaVaN relaxes bound to Σmν < 0.16 eV)
 - "Disentangling geometry & growth in cosmic neutrino mass constraints: a more physical split and diagnostic", arXiv:2610.20977 (2026-10-24)
 - "Effective Neutrino Mass and Apparent Phantom Crossing" (MaVaN pNGB unifying ν mass + phantom crossing), arXiv:2610.10195 (2026-10-24)
+- **NEW (2026-11-12):** Dutta, "Self-interacting dark matter and neutrino masses from MeV-scale lepton-number breaking", arXiv:2611.13617 — MeV-scale lepton-number-breaking scalar generates light-neutrino masses via inverse seesaw and simultaneously mediates self-interacting DM (pseudo-Dirac fermion); joint N_eff + SN 1987A + direct-detection constraints favor normal ordering. Template example of a joint DM-self-interaction/neutrino-mass-ordering bridge — relevant if we ever extend this summary's tool proposals to couple `hierarchy_test` with a DM self-interaction cross-section input.
